@@ -1,5 +1,5 @@
 # ADV360-PRO-ZMK
-> (Link to Edit Keyboard Layout)[https://nickcoutsos.github.io/keymap-editor/]
+> [Link to Edit Keyboard Layout](https://nickcoutsos.github.io/keymap-editor/)
 ## To build Firmware in GitHub Actions
 
 ### Setup
