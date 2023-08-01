@@ -3,6 +3,7 @@
 ## Modifying the keymap
 
 > [Link to Edit Keyboard Layout](https://nickcoutsos.github.io/keymap-editor/)
+
 There is a GUI for editing the keymap. It is available at https://kinesiscorporation.github.io/Adv360-Pro-GUI
 
 ## Building the Firmware with GitHub Actions
